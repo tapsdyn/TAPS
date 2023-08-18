@@ -1,0 +1,87 @@
+0,Approaching something with your camera
+1,Attaching something to something
+2,Bending something so that it deforms
+3,Bending something until it breaks
+4,Burying something in something
+5,Closing something
+6,Covering something with something
+7,Digging something out of something
+8,Dropping something into something
+9,Dropping something onto something
+10,Holding something over something
+11,Letting something roll along a flat surface
+12,Letting something roll down a slanted surface
+13,Lifting a surface with something on it but not enough for it to slide down
+14,Lifting a surface with something on it until it starts sliding down
+15,Lifting something up completely without letting it drop down
+16,Lifting something up completely, then letting it drop down
+17,Lifting something with something on it
+18,Moving something across a surface until it falls down
+19,Moving something across a surface without it falling down
+20,Moving something and something closer to each other
+21,Moving something and something so they pass each other
+22,Moving something closer to something
+23,Opening something
+24,Plugging something into something but pulling it right out as you remove your hand
+25,Poking a hole into something soft
+26,Poking a stack of something without the stack collapsing
+27,Poking something so it slightly moves
+28,Poking something so that it falls over
+29,Poking something so that it spins around
+30,Pouring something into something
+31,Pouring something into something until it overflows
+32,Pouring something out of something
+33,Pretending to pick something up
+34,Pretending to put something on a surface
+35,Pretending to scoop something up with something
+36,Pretending to spread air onto something
+37,Pretending to sprinkle air onto something
+38,Pretending to squeeze something
+39,Pretending to take something from somewhere
+40,Pulling something from behind of something
+41,Pulling something from left to right
+42,Pulling something from right to left
+43,Pulling two ends of something so that it gets stretched
+44,Pushing something from right to left
+45,Pushing something off of something
+46,Pushing something onto something
+47,Pushing something so it spins
+48,Pushing something so that it slightly moves
+49,Pushing something with something
+50,Putting something and something on the table
+51,Putting something behind something
+52,Putting something into something
+53,Putting something on a flat surface without letting it roll
+54,Putting something on the edge of something so it is not supported and falls down
+55,Putting something onto something
+56,Putting something similar to other things that are already on the table
+57,Putting something that can't roll onto a slanted surface, so it stays where it is
+58,Removing something, revealing something behind
+59,Showing something next to something
+60,Showing that something is empty
+61,Showing that something is inside something
+62,Something falling like a feather or paper
+63,Something falling like a rock
+64,Spilling something onto something
+65,Spinning something so it continues spinning
+66,Spinning something that quickly stops spinning
+67,Spreading something onto something
+68,Sprinkling something onto something
+69,Squeezing something
+70,Stuffing something into something
+71,Taking one of many similar things on the table
+72,Taking something from somewhere
+73,Taking something out of something
+74,Tearing something just a little bit
+75,Throwing something
+76,Throwing something against something
+77,Throwing something in the air and letting it fall
+78,Throwing something onto a surface
+79,Tilting something with something on it slightly so it doesn't fall down
+80,Tipping something over
+81,Trying to pour something into something, but missing so it spills next to it
+82,Turning the camera downwards while filming something
+83,Turning the camera left while filming something
+84,Twisting (wringing) something wet until water comes out
+85,Twisting something
+86,Uncovering something
