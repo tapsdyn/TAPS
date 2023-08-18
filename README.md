@@ -2,7 +2,7 @@
 
 Official implementation of "**TAPS: Temporal Attention-based Pruning and Scaling for Efficient Video Action Recognition**"
 
-![Arch_tnr](https://github.com/tapsdyn/TAPS/assets/141319872/64c434f2-fa00-4cac-9870-2ba41b85a491)
+![Arch_tnr](https://github.com/tapsdyn/TAPS/assets/141319872/e386cddd-e87d-4ac3-86a8-22692da4e2ae)
 
 
 ## Dependencies
